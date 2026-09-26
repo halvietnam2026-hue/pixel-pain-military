@@ -1,0 +1,18 @@
+{
+  "name": "Pixel Paint Military",
+  "short_name": "Pixel Paint",
+  "description": "Military color-by-number pixel game",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2e3219",
+  "theme_color": "#2e3219",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
